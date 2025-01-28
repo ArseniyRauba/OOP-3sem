@@ -1,0 +1,138 @@
+1. Чем класс отличается от структуры?
+Класс — это ссылочный тип, создается в управляемой куче (heap), может поддерживать наследование и работает через ссылку.
+Структура — это тип значения, создается в стеке, не поддерживает наследование от других структур или классов, кроме интерфейсов, и работает через копирование.
+Основные отличия:
+
+Характеристика	Класс	Структура
+Тип	Ссылочный	Значимый
+Наследование	Поддерживает	Не поддерживает
+Модификатор abstract	Можно использовать	Нельзя
+Конструкторы	Поддерживает	Поддерживает только с параметрами
+Автоматическая инициализация	Поля имеют значения по умолчанию	Требует явной инициализации
+2. Что может и чего не может быть в структуре?
+Может быть:
+
+Поля, методы, свойства.
+Конструкторы с параметрами.
+Реализация интерфейсов.
+Статические члены.
+Не может быть:
+
+Конструкторов без параметров (они создаются автоматически).
+Наследования от других классов или структур.
+Виртуальных методов, абстрактных членов.
+Полей, инициализированных значением по умолчанию.
+3. Что такое перечисление?
+Перечисление (enum) — это набор именованных констант целочисленного типа. Используется для представления фиксированного набора значений.
+
+Пример:
+
+csharp
+Копировать код
+public enum Days {
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday,
+    Saturday,
+    Sunday
+}
+
+class Program {
+    static void Main() {
+        Days today = Days.Monday;
+        Console.WriteLine(today); // Output: Monday
+    }
+}
+4. Стандартные интерфейсы .NET:
+IComparable — для сравнения объектов.
+ICloneable — для клонирования объектов.
+IEnumerable и IEnumerator — для перебора коллекций.
+IDisposable — для освобождения ресурсов.
+IEquatable<T> — для проверки равенства объектов.
+IList, IDictionary, ICollection — для работы с коллекциями.
+IFormattable — для форматирования строк.
+5. Как используется интерфейс IComparable?
+IComparable определяет метод CompareTo, используемый для сравнения объектов.
+
+Пример:
+
+csharp
+Копировать код
+public class Person : IComparable<Person> {
+    public string Name { get; set; }
+    public int Age { get; set; }
+
+    public int CompareTo(Person other) {
+        return Age.CompareTo(other.Age); // Сравнение по возрасту
+    }
+}
+6. Как используется интерфейс ICloneable?
+ICloneable определяет метод Clone, который возвращает копию объекта.
+
+Пример:
+
+csharp
+Копировать код
+public class Person : ICloneable {
+    public string Name { get; set; }
+    public int Age { get; set; }
+
+    public object Clone() {
+        return this.MemberwiseClone();
+    }
+}
+7. Что такое полиморфизм? Перечислите его формы.
+Полиморфизм — это способность объектов принимать разные формы.
+
+Формы полиморфизма:
+
+Компиляторный (статический):
+Перегрузка методов.
+Перегрузка операторов.
+Рантайм (динамический):
+Виртуальные методы.
+Абстрактные методы.
+Интерфейсы.
+Примеры:
+
+Статический полиморфизм:
+csharp
+Копировать код
+class MathOperations {
+    public int Add(int a, int b) => a + b;
+    public double Add(double a, double b) => a + b;
+}
+Динамический полиморфизм:
+csharp
+Копировать код
+public class Animal {
+    public virtual void Speak() => Console.WriteLine("Animal speaks");
+}
+
+public class Dog : Animal {
+    public override void Speak() => Console.WriteLine("Dog barks");
+}
+
+Animal animal = new Dog();
+animal.Speak(); // Output: Dog barks
+8. Зачем в классе определяют виртуальные методы?
+Виртуальные методы используются, чтобы позволить производным классам переопределять поведение метода базового класса. Это основа для реализации полиморфизма.
+
+9. Как сделать запрет переопределения методов?
+Метод объявляется с модификатором sealed в производном классе:
+
+csharp
+Копировать код
+public class BaseClass {
+    public virtual void Display() {
+        Console.WriteLine("Base display");
+    }
+}
+
+public class DerivedClass : BaseClass {
+    public sealed override void Display() {
+        Console.WriteLine("Derived display");
+    }
+}
