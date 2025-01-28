@@ -1,0 +1,7 @@
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\bin\Debug\lab10.exe.config
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\bin\Debug\lab10.exe
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\bin\Debug\lab10.pdb
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\obj\Debug\lab10.exe
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\10\lab10\lab10\obj\Debug\lab10.pdb

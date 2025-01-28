@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoJKqb580rw=",
+  "success": true,
+  "projectFilePath": "d:\\Users\\ggsen\\Рабочий стол\\лабы (3сем)\\ООП\\12\\lab12\\OOP_Lab12\\OOP_Lab12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggsen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ggsen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ggsen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ggsen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
