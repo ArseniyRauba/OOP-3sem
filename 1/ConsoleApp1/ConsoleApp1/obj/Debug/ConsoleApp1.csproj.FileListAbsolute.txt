@@ -1,0 +1,7 @@
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
