@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Страница — 1" id="oftv8JhhtDczw780pQ0_">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MjTNIRH1OrVXeckScda1-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MjTNIRH1OrVXeckScda1-2" target="MjTNIRH1OrVXeckScda1-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-2" value="клиентское приложение" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-3" value="выбор услуги&lt;br&gt;&lt;div&gt;просмотр баланса&lt;/div&gt;&lt;div&gt;просмотр тарифа&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MjTNIRH1OrVXeckScda1-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MjTNIRH1OrVXeckScda1-6" target="MjTNIRH1OrVXeckScda1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-6" value="Сервер" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-7" value="API оплаты услуг" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="245" y="130" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MjTNIRH1OrVXeckScda1-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-9" value="База данных" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-10" value="Список абонентов" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="130" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MjTNIRH1OrVXeckScda1-11" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MjTNIRH1OrVXeckScda1-10">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
