@@ -1,0 +1,14 @@
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.AssemblyInfoInputs.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.AssemblyInfo.cs
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.csproj.CoreCompileInputs.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\bin\Debug\net8.0\lab9.exe
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\bin\Debug\net8.0\lab9.deps.json
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\bin\Debug\net8.0\lab9.runtimeconfig.json
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\bin\Debug\net8.0\lab9.dll
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\bin\Debug\net8.0\lab9.pdb
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.dll
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\refint\lab9.dll
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.pdb
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\lab9.genruntimeconfig.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\9\lab9\lab9\obj\Debug\net8.0\ref\lab9.dll

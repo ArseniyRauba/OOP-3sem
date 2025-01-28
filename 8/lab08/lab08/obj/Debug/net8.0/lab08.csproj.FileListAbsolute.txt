@@ -1,0 +1,4 @@
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\8\lab08\lab08\obj\Debug\net8.0\lab08.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\8\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfoInputs.cache
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\8\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfo.cs
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\ООП\8\lab08\lab08\obj\Debug\net8.0\lab08.csproj.CoreCompileInputs.cache
